@@ -1,0 +1,1 @@
+This is a project to test my Java Script skills by building a game of Rack Paper Scissors in the browser console
